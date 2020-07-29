@@ -1,2 +1,2 @@
 # PH5170-Quantum-Mechanics-II
-Advanced Quantum Mechanics  
+Quantum Mechanics is not hard. It's interpretation is - Prof. V. Balakrishnan, IIT Madras 
