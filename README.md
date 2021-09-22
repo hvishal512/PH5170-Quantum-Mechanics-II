@@ -1,2 +1,2 @@
 # PH5170-Quantum-Mechanics-II
-*Quantum Mechaniccal theory is not hard. It's interpretation is!* 
+*Quantum Mechanical theory is not hard. It's interpretation is!* 
